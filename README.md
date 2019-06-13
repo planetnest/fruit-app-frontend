@@ -1,3 +1,5 @@
+# Fruit App Frontend
+
 This project was bootstrapped with [Create Next App](https://github.com/segmentio/create-next-app).
 
 Find the most recent version of this guide at [here](https://github.com/segmentio/create-next-app/blob/master/lib/templates/default/README.md). And check out [Next.js repo](https://github.com/zeit/next.js) for the most up-to-date info.
@@ -16,6 +18,7 @@ Find the most recent version of this guide at [here](https://github.com/segmenti
 - [Custom Server](#custom-server)
 - [Syntax Highlighting](#syntax-highlighting)
 - [Using the `static` Folder](#using-the-static-folder)
+
 - [Deploy to Now](#deploy-to-now)
 - [Something Missing?](#something-missing)
 
@@ -232,3 +235,6 @@ You can find more details about [`now` here](https://zeit.co/now).
 ## Something Missing?
 
 If you have ideas for how we could improve this readme or the project in general, [let us know](https://github.com/segmentio/create-next-app/issues) or [contribute some!](https://github.com/segmentio/create-next-app/edit/master/lib/templates/default/README.md)
+=======
+# fruit-app-frontend
+>>>>>>> 99651e36ecd40725b17dcd7dd2c2056af2702cb7

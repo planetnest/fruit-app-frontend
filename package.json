@@ -1,0 +1,23 @@
+{
+  "name": "create-next-example-app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "heroku-postbuild": "npm run build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run format &&  npm test"
+    }
+  },
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "husky": "^2.4.1",
+    "jest": "^24.8.0"
+  }
+}

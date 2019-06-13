@@ -232,9 +232,4 @@ To configure the syntax highlighting in your favorite text editor, head to the [
 
 You can find more details about [`now` here](https://zeit.co/now).
 
-## Something Missing?
 
-If you have ideas for how we could improve this readme or the project in general, [let us know](https://github.com/segmentio/create-next-app/issues) or [contribute some!](https://github.com/segmentio/create-next-app/edit/master/lib/templates/default/README.md)
-=======
-# fruit-app-frontend
->>>>>>> 99651e36ecd40725b17dcd7dd2c2056af2702cb7

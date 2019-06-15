@@ -3,7 +3,7 @@
 
 ### 1. `cd fruit-app-pwa`
 
-### 2. `npm install` or `yarn install`
+### 2. `npm install`
 
 
 In the project directory, you can run:
@@ -21,13 +21,12 @@ You will also see any errors in the console.
 Run Test Specs
 
 
-### 4. `npm run build`
+### 5. `npm run build`
 
 Builds the app for production to the `.next` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### 5. `npm run start`
-
+### 6. `npm run start`
 
 
 

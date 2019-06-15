@@ -1,0 +1,14 @@
+
+@import "cdn";
+@import "variables";
+
+body {
+    font-family: 'Dosis', sans-serif !important;
+    background: $primary;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    margin: 0px;
+    padding: 0px;
+}

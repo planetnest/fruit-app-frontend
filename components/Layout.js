@@ -1,6 +1,6 @@
 import React from 'react'
 // import Link from 'next/link'
-import '../sass/app.scss';
+// import '../sass/app.scss';
 import Head from '../components/head'
 
 const Layout = (props) => (

@@ -1,5 +1,4 @@
 import Layout from '../components/Layout'
-import Single from './single'
 
 class Index extends React.Component {
     render() {
@@ -7,7 +6,6 @@ class Index extends React.Component {
             <Layout>
                 <div>
                     <h1>Homepage</h1>
-                    <Single></Single>
                 </div>
             </Layout>
         )

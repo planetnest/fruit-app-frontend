@@ -1,7 +1,5 @@
 import Layout from '../components/Layout'
-// import left from '../src/left.svg';
-// import up from '../src/up.svg';
-// import down from '../src/down.svg';
+
 import '../static/app.css';
 
 class Single extends React.Component {
